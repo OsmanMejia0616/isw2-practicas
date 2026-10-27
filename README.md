@@ -8,7 +8,7 @@ Repositorio de prácticas académicas de la asignatura Ingeniería de Software I
 ## Índice de prácticas
 
 1. [Práctica 1: Clean Code y refactorización](./practica-1/limpieza.md)
-2. Práctica 2: Pendiente
+2. - [Práctica 2: Flujos de ramas](./practica-2/flujo.md)
 3. Práctica 3: Pendiente
 4. Práctica 4: Pendiente
 5. Práctica 5: Pendiente
