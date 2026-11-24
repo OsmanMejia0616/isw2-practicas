@@ -30,3 +30,7 @@ Repositorio de prácticas académicas de la asignatura Ingeniería de Software I
 * GitHub
 * Visual Studio Code
 * Markdown
+
+## Identificación de propiedad
+
+Token de propiedad: `LEARN-CAP-D1D9B1B9`
